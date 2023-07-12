@@ -1,0 +1,33 @@
+export default {
+  WhseLeftOver: {
+    orderCode: "Mã số order",
+    vatNos: "Mã hàng",
+    productNo: "Vải thành phẩm",
+    finishTime: "T.g hoàn tất",
+    orderDate: "Ngày yêu cầu",
+    creator: "Người tạo",
+    creatTime: "Thời gian",
+    remark: "Ghi chú",
+    pidCount: "Tổng số cây",
+    sumWeight: "T.trọng lượng(KB)",
+    sumNwLbs: "T.trọng lượng(LBS)",
+    workProgress: "Tiến độ hoàn thành",
+    level: "Tính cấp bách",
+    vatNo: "Mã hàng",
+    pidNo: "Số cây",
+    netWeight: "Trọng lượng",
+    netWeightLbs: "Trọng lượng LBs",
+    cutWeight: "Trọng lượng xuất",
+    grossWeight: "Tổng trọng lượng (KG)",
+    yardLength: "Chiều dài",
+    confirmFlag: "Trạng thái",
+    confirmStaff: "Người cắt vải",
+    confireTime: "Thời gian cắt",
+    printer: "Người in",
+    printTime: "T.g In",
+    grossWeightLbs: "Tổng trọng lượng(LBS)",
+    status: "Trạng thái",
+    status0: "Xuất hàng",
+    status1: "Kho giữ lại"
+  }
+}
